@@ -1,7 +1,7 @@
-progit-zh-pdf&epub
+progit-zh-pdf&epub&mobi
 =============
 
-latest progit-zh-pdf and progit-zh-epub
+latest progit-zh-pdf and progit-zh-epub and progit-zh-mobi
 
 #WHY
 
@@ -27,3 +27,6 @@ pandoc很容易安装，但是xelatex很难安装，甚至根本搜不到要装�
 
 #epub
 增加了epub格式，欢迎大家提各种意见和建议。
+
+#mobi
+增加了mobi格式
