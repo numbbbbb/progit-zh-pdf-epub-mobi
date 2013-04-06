@@ -1,7 +1,7 @@
-progit-zh-pdf
+progit-zh-pdf&epub
 =============
 
-latest progit-zh-pdf
+latest progit-zh-pdf and progit-zh-epub
 
 #WHY
 
@@ -24,3 +24,6 @@ pandoc很容易安装，但是xelatex很难安装，甚至根本搜不到要装�
 整个过程历时一上午。
 
 为了方便大家，省去各种安装设置的过程，所以我建了一个repo，随时更新最新版本的pdf。
+
+#epub
+增加了epub格式，欢迎大家提各种意见和建议。
