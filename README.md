@@ -30,3 +30,6 @@ pandoc很容易安装，但是xelatex很难安装，甚至根本搜不到要装�
 
 #mobi
 增加了mobi格式
+
+#License
+基于[WTFPL](http://en.wikipedia.org/wiki/WTFPL)协议开源。
