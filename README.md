@@ -15,7 +15,7 @@ latest progit-zh-pdf and progit-zh-epub and progit-zh-mobi
 
 pandoc很容易安装，但是xelatex很难安装，甚至根本搜不到要装什么。
 
-最后终于在google上发现需要安装MaxTex。
+最后终于在google上发现需要安装MacTex。
 
 安装包2G，安装要占用4G。
 
