@@ -1,9 +1,9 @@
 progit-zh-pdf&epub&mobi
 =============
 
-latest progit-zh-pdf and progit-zh-epub and progit-zh-mobi
+项目年久失修，需要电子版的各位可以查看 [progit2-zh](https://github.com/progit/progit2-zh/releases)。
 
-#WHY
+# WHY
 
 我使用的是mac系统，今天第一次看到这本书。
 
@@ -25,11 +25,11 @@ pandoc很容易安装，但是xelatex很难安装，甚至根本搜不到要装�
 
 为了方便大家，省去各种安装设置的过程，所以我建了一个repo，随时更新最新版本的pdf。
 
-#epub
+# epub
 增加了epub格式，欢迎大家提各种意见和建议。
 
-#mobi
+# mobi
 增加了mobi格式
 
-#License
+# License
 基于[WTFPL](http://en.wikipedia.org/wiki/WTFPL)协议开源。
